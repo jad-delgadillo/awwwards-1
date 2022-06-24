@@ -13,7 +13,7 @@ const Home: NextPage = () => {
     <div className=' block justify-center fixed items-center min-h-screen z-10  w-20 md:border-r border-black'>
       <MenuButton/>
 
-      <div className='flex flex-col w-screen min-h-screen justify-center md:pl-28 px-10 m-auto'>
+      <div className='flex flex-col w-screen min-h-screen justify-center md:pl-28 px-8 m-auto'>
         {/* <Title/> */}
         <Header/>
         <Contact/>
